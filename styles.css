@@ -217,6 +217,10 @@ td{
     font-size: 300%;
 }
 
+.contag{
+    text-decoration: solid;
+}
+
 .email{
     font-family: 'Poppins', sans-serif;
     color: white;
