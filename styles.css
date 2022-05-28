@@ -1,0 +1,247 @@
+.nav-link{
+    font-family: 'Poppins', sans-serif;    color: black;
+    font-weight: 600;
+    }
+
+.navbar-nav{
+    padding: 2rem 7rem 4rem 6rem;
+}
+
+.nav-items{
+    padding: 0 25px 0 25px;
+    font-size: small;
+}
+   
+.row{
+    padding-left: 4rem;
+}
+
+.head-text{
+    padding-top: 4rem;
+    padding-right: 8rem;
+}
+
+.medium-heading{
+    font-family: 'Poppins', sans-serif;    font-weight: bold;
+}
+
+.profile-picture{
+    width: 400px;
+    margin-left: 18% ;
+    padding-bottom: 20%;
+}
+
+.talk-button{
+    color: white;
+    background-color: #95CD41;
+    border: #95CD41 ;
+    font-family: 'Poppins', sans-serif;    font-weight: bold;
+    padding: 10px 20px 10px 20px;
+    border-radius: 4px;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;}
+
+.text{
+    font-family: 'Poppins', sans-serif;}
+
+.green-box{
+    position:absolute;
+    z-index:-1;
+    top:0;
+    left: 53%;
+    width:28%;
+    height:80%;
+    background-color:#95CD41;
+}
+
+.hustle-section{
+    padding: 0 20rem 0 6rem;
+}
+
+.hustle-heading{
+    position: absolute;
+    font-size: 500%;
+    font-family: 'Poppins', sans-serif;    font-weight: bolder;
+}
+
+.hustle-bg{
+    left: 0%;
+    align-self: left;
+    width: 25%;
+    height: 40%;
+    position: absolute;
+}
+
+.timeline{
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;    color: #95CD41;
+}
+
+.school{
+    font-family: 'Poppins', sans-serif;    font-weight: bold;
+}
+
+.education-text{
+    font-family: 'Poppins', sans-serif;}
+
+.working{
+    align-self: center;
+    padding: 5rem 20% 5rem 20%;
+}
+
+.my-work{
+    font-family: 'Poppins', sans-serif;    font-size: 250%;
+    font-weight: bold;
+    align-self: center;
+    padding-bottom: 3rem;
+}
+
+.work-text{
+    font-family: 'Poppins', sans-serif;}
+
+/* Projects */
+
+.project-row{
+    
+}
+
+.projects{
+    margin: 6% 4%;
+    size: 20px;
+    align-items: center;
+    padding: 0 5rem 3rem 2.8rem;
+}
+
+.project-head{
+    padding-top: 5%;
+    font-family: 'Poppins', sans-serif;    font-weight: bold;
+}
+
+.project-description{
+    font-family: 'Poppins', sans-serif;    font-weight: bold;
+}
+
+.project-links{
+    font-family: 'Poppins', sans-serif;    color: #95CD41;
+    text-decoration:solid ;
+    font-weight: bold;
+}
+
+ul.achieve{
+    list-style: none ;
+}
+
+.achievement-table{
+    width: 110%;
+    margin-left: -7% ;
+
+
+}
+
+.achieve-li{
+    list-style: url(assets/list-style.PNG);
+}
+
+td{
+    padding-bottom: 10%;
+    padding-left: 10%;
+    text-align: left;
+    vertical-align: top;
+}
+
+.achieve-green{
+    position:absolute;
+    z-index: -1;
+    width:30%;
+    height:60%;
+    background-color: #95CD41;
+    right: 0;
+}
+
+.achieve-head{
+    font-family: 'Poppins', sans-serif;    text-align: right;
+    font-weight: bold;
+    margin-right: 20%;
+    font-size: 500%;
+    color: black;
+    color: white;
+    
+}
+
+.hobbies-header{
+    color: #95CD41;
+    font-size: 400%;
+    font-weight: bold;
+}
+
+.hobby-head{
+    padding-top: 10rem;
+    border-right: 5rem;
+}
+
+.hobby-imgs{
+    padding-top: 2rem;
+    display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.col-1{
+    padding-top: 7%;
+}
+
+.col-2{
+   padding-left: 5%;
+}
+
+.column{
+    flex: auto;
+}
+
+.footer-contact{
+    position:absolute;
+    z-index: -1;
+    width: 35%;
+    height: 45%;
+    background-color: #95CD41;
+    
+}
+
+.contact-button{
+    font-family: 'Poppins', sans-serif;
+    color: white; font-weight: bold;
+    text-decoration: solid;
+    padding: 3rem 6rem 0.2rem 6rem;
+    font-size: 300%;
+}
+
+.email{
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    text-decoration: underline white;
+    padding-left: 6rem;
+}
+
+.social-icon{
+    padding-left: 100px;
+    color: white;
+    text-align: left;
+}
+
+.youtubeicon{
+    color: white;
+}
+
+.facebookicon{
+    color: white;
+}
+
+.rights{
+    position:relative;
+    text-align: right;
+    left: 170%;
+    padding-bottom: 2rem;
+}
+    
